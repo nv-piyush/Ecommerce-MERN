@@ -1,7 +1,7 @@
 {
-  "name": "donatekart",
+  "name": "GSE-RED",
   "version": "1.0.0",
-  "description": "Shop & Donate",
+  "description": "Ecommerce",
   "main": "server.js",
   "type": "module",
   "scripts": {
